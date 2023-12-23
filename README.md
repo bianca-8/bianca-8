@@ -1,5 +1,6 @@
 <h1>Hi, I'm Bianca! 👋</h1>
 <p>I am a full stack developper who loves learning new things and finding ways to make others' lives easier through code! I love a good challenge too!</p>
+<h2>Statistics</h2>
 <p><!--Languages--->
   <a href="https://github-readme-stats-bianca-8s-projects.vercel.app"> <!---https://github.com/bianca-8/convoychat--->
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bianca-8&layout=compact&langs_count=8&card_width=320&theme=dracula" />
