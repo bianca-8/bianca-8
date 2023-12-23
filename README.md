@@ -13,6 +13,9 @@
 https://streak-stats.demolab.com/demo/--->
 <a href="[https://git.io/streak-stats](https://streak-stats.demolab.com/demo/preview.php?user=bianca-8&theme=dracula)"><img height=200 align="center" src="https://streak-stats.demolab.com?user=bianca-8&theme=dracula" alt="GitHub Streak" target="_blank"/></a>
 
+<!---https://github.com/ryo-ma/github-profile-trophy--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=bianca-8&theme=dracula)](https://github.com/bianca-8/github-profile-trophy)
+
 <!---Themes
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).--->
 
@@ -39,3 +42,9 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <h2>Currently Learning</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,unity)](https://skillicons.dev)
+
+<h2>Random Quote</h2>
+<!---Quote
+https://github.com/PiyushSuthar/github-readme-quotes--->
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
