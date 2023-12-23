@@ -13,8 +13,10 @@
 https://streak-stats.demolab.com/demo/--->
 <a href="[https://git.io/streak-stats](https://streak-stats.demolab.com/demo/preview.php?user=bianca-8&theme=dracula)"><img height=200 align="center" src="https://streak-stats.demolab.com?user=bianca-8&theme=dracula" alt="GitHub Streak" target="_blank"/></a>
 
+<!---
 <!---https://github.com/ryo-ma/github-profile-trophy--->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bianca-8&theme=dracula)](https://github.com/bianca-8/github-profile-trophy)
+--->
 
 <!---Themes
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).--->
