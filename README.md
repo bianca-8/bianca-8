@@ -3,7 +3,7 @@
 
 <h2>Statistics</h2>
 <p><!--Languages--->
-  <a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bianca-8&layout=compact&langs_count=8&card_width=320&theme=dracula" alt="Github Languages" target="_blank"/></a>
+  <a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bianca-8&layout=compact&langs_count=8&card_width=320&theme=dracula&hide=SCSS,Nix,PHP" alt="Github Languages" target="_blank"/></a>
   <!---Stats -- 
   - rank_icon can change to default/percentile/github
   - include_all_commits=true--->
