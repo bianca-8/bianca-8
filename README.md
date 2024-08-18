@@ -36,12 +36,12 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,mysql,figma)](https://skillicons.dev)
 
 
 <h2>Currently Learning</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,unity)](https://skillicons.dev)
 
 <h2>Random Quote</h2>
 <!---Quote
