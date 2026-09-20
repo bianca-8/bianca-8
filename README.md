@@ -15,8 +15,8 @@ https://streak-stats.demolab.com/demo/
 <a href="[https://git.io/streak-stats](https://streak-stats.demolab.com/demo/preview.php?user=bianca-8&theme=dracula)"><img height=200 align="center" src="https://streak-stats.demolab.com?user=bianca-8&theme=dracula" alt="GitHub Streak" target="_blank"/></a>
 -->
 
-<!--hackatime-->
-<a href=""><img height=200 align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=3066&api_domain=hackatime.hackclub.com&theme=dracula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Hours" target="_blank"/></a>
+<!--hackatime
+<a href=""><img height=200 align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=3066&api_domain=hackatime.hackclub.com&theme=dracula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Hours" target="_blank"/></a>-->
 
 <!--hackatime heatmap-->
 <a href=""><img height=200 align="center" src="https://heatmap.shymike.dev/?id=3066&timezone=America/New_York" alt="Hackatime Heatmap" target="_blank"/></a>
