@@ -1,5 +1,5 @@
 <h1>Hi, I'm Bianca! 👋</h1>
-<p>I am a full stack developper who loves learning new things and finding ways to make others' lives easier through code! I love a good challenge too!</p>
+<p>I am a developer who loves to learn new things and find ways to make others' lives easier through code! I love a good challenge too!</p>
 
 <!--<h2>Statistics</h2>-->
 <!--
